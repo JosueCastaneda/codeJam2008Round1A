@@ -1,7 +1,7 @@
 package codeJam2008Round1A;
 
 import java.util.*;
-import java.math.*;
+import java.math.BigInteger;
 
 public class MinimumScalarProduct {
 
