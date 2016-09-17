@@ -38,7 +38,6 @@ public class Milkshakes {
 				}				
 			}
 			
-			//Revisar la hashtable para imprimir los valores
 			if(siPudo){
 				int[] salida = new int[sabores];
 				for(Integer j: saboresDisponibles.keySet()){
